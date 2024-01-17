@@ -5,13 +5,7 @@ Este repositório contém todos os conjuntos de dados do livro
 de A. Agresti, C. Franklin e B. Klingenberg.
 
 ```markdown
-## I: COLETA E EXPLORAÇÃO DE DADOS
-
-### Estatística: a arte e a ciência de aprender com dados
-
-- 1.1 Usando dados para responder questões estatísticas
-- 1.2 Amostra versus População
-- 1.3 Organização de dados, software estatístico e o novo campo da ciência de dados
+# Estatística: a arte e a ciência de aprender com dados
 
 ## Capítulo 1 Conjuntos de dados
 - Pesquisa com estudantes da Flórida (csv)

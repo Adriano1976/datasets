@@ -4,8 +4,9 @@ Este repositório contém todos os conjuntos de dados do livro
 
 de A. Agresti, C. Franklin e B. Klingenberg.
 
+# <font color=orange>Estatística: A arte e a ciência de aprender com dados</font>
+
 ```markdown
-# Estatística: a arte e a ciência de aprender com dados
 
 ## Capítulo 1 Conjuntos de dados
 - Pesquisa com estudantes da Flórida (csv)
